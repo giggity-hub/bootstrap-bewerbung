@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-bewerbung",
+  "version": "1.0.0",
+  "description": "bootstrap bewerbung",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.3"
+  }
+}
